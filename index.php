@@ -1,3 +1,9 @@
+<?php 
+if (isset($_POST['submit'])) {
+   // echo '<h3>'. $_GET['name']. '</h3>';
+    echo '<h3>Username : '. $_POST['name']. '</h3>';
+};
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
