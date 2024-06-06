@@ -1,0 +1,22 @@
+h1, h2, header{
+  text-align: center;
+}
+.btn{
+  margin-top: 20px;
+}
+form{
+  width: 50%;
+  margin: 0 auto;
+}
+.container{
+  margin: 0 auto;
+}
+.card{
+  margin: 0 auto;
+}
+footer{
+  text-align: center;
+}
+#logo-menu{
+  width: 30%;
+}
